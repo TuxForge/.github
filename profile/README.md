@@ -1,7 +1,5 @@
 # TuxForge
 
-![TuxForge Logo](https://avatars.githubusercontent.com/u/179631074?s=400&u=8b4c82433f1d394f9c9f27f67c535ce39f250e34&v=4)
-
 TuxForge is an innovative organization dedicated to developing intuitive software solutions for GNU/Linux, driven by a strong commitment to Free and Open Source Software (FOSS) principles.
 
 ## 🚀 Our Mission
