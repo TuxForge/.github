@@ -11,12 +11,12 @@ To create powerful, user-friendly tools that enhance the GNU/Linux experience wh
 | Project | Description | Status |
 |---------|-------------|--------|
 | [Archie](https://github.com/TuxForge/archie) | A fast & simple package management program written in C | Active |
-| [WPac](https://github.com/gur0v/wpac) | An intuitive winget wrapper for Windows written in C and PowerShell | Active |
+| [WPac](https://github.com/TuxForge/wpac) | An intuitive winget wrapper for Windows written in C and PowerShell | Active |
 | [Jarvis](https://github.com/TuxForge/jarvis) | An AI-powered CLI written in C | Coming Soon |
 
 ## 👥 Core Team
 
-- [Gurov](https://github.com/gur0v) - MVP for the organization and the creator, head programmer & maintainer of Archie
+- [Gurov](https://github.com/Gur0v) - MVP for the organization and the creator, head programmer & maintainer of Archie
 - [Zach](https://github.com/sck1ss) - Organization creator and head maintainer for Archie
 
 ## 🤝 Contributors
