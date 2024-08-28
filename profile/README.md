@@ -19,7 +19,7 @@ To create powerful, user-friendly tools that enhance the GNU/Linux experience wh
 ## 👥 Core Team
 
 - [Gurov](https://github.com/gur0v) - MVP for the organization and head programmer for Archie
-- [Zach](https://github.com/zackychann) - Organization creator and head maintainer for Archie
+- [Zach](https://github.com/sck1ss) - Organization creator and head maintainer for Archie
 
 ## 🤝 Contributors
 
