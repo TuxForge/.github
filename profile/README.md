@@ -18,13 +18,13 @@ To create powerful, user-friendly tools that enhance the GNU/Linux experience wh
 
 - [Gurov](https://github.com/Gur0v) - MVP for the organization and the creator, head programmer & maintainer of Archie
 - [Scklss](https://github.com/sck1ss) - Organization creator and head maintainer for Archie
+- [Ansel](https://github.com/anselscool) - Created the base documentation for TuxForge's projects
 
 ## 🤝 Contributors
 
 We're grateful for the contributions of our community members, including:
 
 - [Keiran](https://github.com/keiranscript) - Added Archie to the [AUR (Arch User Repository)](https://aur.archlinux.org/packages/archie)
-- [Ansel](https://github.com/anselscool) - Created the base documentation for TuxForge's projects
 - [Cbx](https://github.com/clubbertux) - Helped write jarvis with [`scklss`](https://github.com/sck1ss)
 
 ## 🛠 Getting Started
