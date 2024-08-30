@@ -16,8 +16,8 @@ To create powerful, user-friendly tools that enhance the GNU/Linux experience wh
 
 ## 👥 Core Team
 
-- [Gurov](https://github.com/Gur0v) - MVP for the organization and the creator, head programmer & maintainer of Archie
-- [Scklss](https://github.com/sck1ss) - Organization creator and head maintainer for Archie
+- [Gurov](https://github.com/Gur0v) - Founder and MVP of the organization, lead programmer and maintainer of both Archie and WPac
+- [Scklss](https://github.com/sck1ss) - Organization creator and lead maintainer of Archie
 
 ## 🤝 Contributors
 
