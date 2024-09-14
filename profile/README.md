@@ -17,13 +17,13 @@ To create powerful, user-friendly tools that enhance the GNU/Linux experience wh
 ## 👥 Core Team
 
 - [Gurov](https://github.com/Gur0v) - Founder and MVP of the organization, lead programmer and maintainer of both Archie and WPac
-- [Scklss](https://github.com/sck1ss) - Organization creator and lead maintainer of Archie
 
 ## 🤝 Contributors
 
 We're grateful for the contributions of our community members, including:
 
 - [Keiran](https://github.com/keiranscript) - Added Archie to the [AUR (Arch User Repository)](https://aur.archlinux.org/packages/archie)
+- [Scklss](https://github.com/sck1ss) - Original publisher & lead maintainer of Archie
 
 ## 🛠 Getting Started
 
