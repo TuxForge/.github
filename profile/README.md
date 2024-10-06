@@ -10,8 +10,8 @@ To create powerful, user-friendly tools that enhance the GNU/Linux experience wh
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [Archie](https://github.com/TuxForge/archie) | A fast & simple package management program written in C | Active |
-| [WPac](https://github.com/TuxForge/wpac) | An intuitive winget wrapper for Windows written in C and PowerShell | Active |
+| [Archie](https://github.com/TuxForge/archie) | A fast & simple package management program written in C | Inactive |
+| [WPac](https://github.com/TuxForge/wpac) | An intuitive winget wrapper for Windows written in C and PowerShell | Discontinued |
 | [Jarvis](https://github.com) | An AI-powered CLI written in C | Coming Soon |
 
 ## 👥 Core Team
