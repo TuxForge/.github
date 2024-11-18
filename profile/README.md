@@ -13,6 +13,13 @@ To create powerful, user-friendly tools that enhance the GNU/Linux experience wh
 | [Archie](https://github.com/TuxForge/archie) | A fast & simple package management program written in C | Inactive |
 | [WPac](https://github.com/TuxForge/wpac) | An intuitive winget wrapper for Windows written in C and PowerShell | Discontinued |
 
+Also, make sure to check out one of our member's projects:
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| [ZeptoFetch](https://github.com/Gur0v/zeptofetch) | A ultra-minimal system fetch tool for Linux (with experimental FreeBSD support) | Active |
+| [Archium](https://github.com/KeiranScript/archium) | Fast & Easy package management for Arch Linux. Fork of [Archie](https://github.com/TuxForge/archie) | Active |
+
 ## 👥 Core Team
 
 - [Gurov](https://github.com/Gur0v) - Founder and MVP of the organization, lead programmer and maintainer of both Archie and WPac
@@ -22,7 +29,7 @@ To create powerful, user-friendly tools that enhance the GNU/Linux experience wh
 We're grateful for the contributions of our community members, including:
 
 - [Keiran](https://github.com/keiranscript) - Added Archie to the [AUR (Arch User Repository)](https://aur.archlinux.org/packages/archie)
-- [Scklss](https://github.com/sck1ss) - Original publisher & lead maintainer of Archie
+- [Scklss](https://github.com/sck1ss) - Original publisher & maintainer of Archie
 
 ## 🛠 Getting Started
 
