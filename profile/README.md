@@ -13,7 +13,7 @@ To create powerful, user-friendly tools that enhance the GNU/Linux experience wh
 | [Archie](https://github.com/TuxForge/archie) | A fast & simple package management program written in C | Inactive |
 | [WPac](https://github.com/TuxForge/wpac) | An intuitive winget wrapper for Windows written in C and PowerShell | Discontinued |
 
-Also, make sure to check out one of our member's projects:
+Also, make sure to check out our members' own projects, created and exclusively maintained by them:
 
 | Project | Description | Status |
 |---------|-------------|--------|
