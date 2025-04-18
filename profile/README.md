@@ -1,6 +1,6 @@
 # TuxForge
 
-TuxForge is an innovative organization dedicated to developing intuitive software solutions for GNU/Linux, driven by a strong commitment to Free and Open Source Software (FOSS) principles.
+TuxForge develops intuitive software solutions for GNU/Linux with a commitment to Free and Open Source Software (FOSS) principles.
 
 ## 🚀 Our Mission
 
